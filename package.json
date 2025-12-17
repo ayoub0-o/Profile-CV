@@ -1,0 +1,16 @@
+{
+  "name": "personal-cv-website",
+  "version": "1.0.0",
+  "description": "A responsive personal CV website deployable on Vercel",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for static site'",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["cv", "portfolio", "vercel", "static-site"],
+  "author": "Othmani Ayoub",
+  "license": "MIT"
+}
